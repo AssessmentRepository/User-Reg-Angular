@@ -1,0 +1,28 @@
+{
+  "userregistration": [
+    {
+      "username": "test",
+      "password": "12345678",
+      "repeatpassword": "12345678",
+      "email": "test@test.com",
+      "profilepic": "test.png",
+      "id": 1
+    },
+    {
+      "username": "testname",
+      "password": "Abc12345",
+      "repeatpassword": "Abc12345",
+      "email": "test@example.com",
+      "profilepic": "test.png",
+      "id": 2
+    },
+    {
+      "username": "testname",
+      "password": "Abc12345",
+      "repeatpassword": "12345678",
+      "email": "test@example.com",
+      "profilepic": "test.png",
+      "id": 3
+    }
+  ]
+}
